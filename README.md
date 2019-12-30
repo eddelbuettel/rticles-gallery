@@ -2,8 +2,10 @@
 
 ### Why?
 
-I can never remember what the different templates look like.  So I made [a
-gallery](https://eddelbuettel.github.io/rticles-gallery/). It contains (animated) gif
+I can never remember what the different templates from the [rticles](https://github.com/rstudio/rticles) package look like.  So I made [a
+gallery](https://eddelbuettel.github.io/rticles-gallery/). 
+
+It contains (animated) gif
 files showing all pages of each template---and providing a link to the underlying pdf from
 which the gif was derived.
 
