@@ -1,5 +1,14 @@
+---
+title: "rtciles Templates"
+output: github_document
+---
 
-## List of Templates
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Each (animated) gif below links to the underlying pdf from which it was generated.
+
 
 - acm_article [![acm_article](acm_article_demo.gif)](acm_article_demo.pdf)
 - acs_article [![acs_article](acs_article_demo.gif)](acs_article_demo.pdf)
