@@ -1,5 +1,5 @@
-rtciles Templates
-================
+rticles Templates
+=================
 
 Each (animated) gif below links to the underlying pdf from which it was
 generated.

@@ -2,10 +2,13 @@
 styles <- list.files(path=system.file("rmarkdown", "templates", package="rticles"), recursive=FALSE)
 
 library(rmarkdown)
+tdir <- tempdir(TRUE)
+cat("Tempdir is ", tdir, "\n")
 
 ## create the pdf files and copy them to docs/
 for (s in styles) {
-    setwd(tempdir())
+
+    setwd(tdir)
 
     article_rmd <- paste0(s, "_demo.Rmd")
     article_dir <- paste0(s, "_demo")
@@ -17,7 +20,7 @@ for (s in styles) {
     } else if (file.exists(article_rmd)) {
         cat("Skipping ", article_rmd, "\n")
     } else {
-        draft(article, template=s, package="rticles", edit=FALSE)
+        draft(article_dir, template=s, package="rticles", edit=FALSE)
         if (dir.exists(article_dir)) {
             setwd(article_dir)
             try(render(article_rmd))
