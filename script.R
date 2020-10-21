@@ -62,3 +62,5 @@ if (dir.exists("docs")) {
     }
     setwd(cwd)
 }
+
+## all:  convert -density 127 -delay 200 *pdf newall.gif
