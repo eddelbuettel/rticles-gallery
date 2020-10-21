@@ -1,52 +1,34 @@
-rticles Templates
-=================
+rtciles Templates
+================
 
 Each (animated) gif below links to the underlying pdf from which it was
 generated.
 
-  - acm\_article
-    [![acm\_article](acm_article_demo.gif)](acm_article_demo.pdf)
-  - acs\_article
-    [![acs\_article](acs_article_demo.gif)](acs_article_demo.pdf)
-  - aea\_article
-    [![aea\_article](aea_article_demo.gif)](aea_article_demo.pdf)
-  - agu\_article
-    [![agu\_article](agu_article_demo.gif)](agu_article_demo.pdf)
-  - ams\_article
-    [![ams\_article](ams_article_demo.gif)](ams_article_demo.pdf)
-  - asa\_article
-    [![asa\_article](asa_article_demo.gif)](asa_article_demo.pdf)
-  - biometrics\_article
-    [![biometrics\_article](biometrics_article_demo.gif)](biometrics_article_demo.pdf)
-  - copernicus\_article
-    [![copernicus\_article](copernicus_article_demo.gif)](copernicus_article_demo.pdf)
-  - elsevier\_article
-    [![elsevier\_article](elsevier_article_demo.gif)](elsevier_article_demo.pdf)
-  - frontiers\_article
-    [![frontiers\_article](frontiers_article_demo.gif)](frontiers_article_demo.pdf)
-  - ieee\_article
-    [![ieee\_article](ieee_article_demo.gif)](ieee_article_demo.pdf)
-  - jss\_article
-    [![jss\_article](jss_article_demo.gif)](jss_article_demo.pdf)
-  - mdpi\_article
-    [![mdpi\_article](mdpi_article_demo.gif)](mdpi_article_demo.pdf)
-  - mnras\_article
-    [![mnras\_article](mnras_article_demo.gif)](mnras_article_demo.pdf)
-  - peerj\_article
-    [![peerj\_article](peerj_article_demo.gif)](peerj_article_demo.pdf)
-  - plos\_article
-    [![plos\_article](plos_article_demo.gif)](plos_article_demo.pdf)
-  - pnas\_article
-    [![pnas\_article](pnas_article_demo.gif)](pnas_article_demo.pdf)
-  - rsos\_article
-    [![rsos\_article](rsos_article_demo.gif)](rsos_article_demo.pdf)
-  - rss\_article
-    [![rss\_article](rss_article_demo.gif)](rss_article_demo.pdf)
-  - sage\_article
-    [![sage\_article](sage_article_demo.gif)](sage_article_demo.pdf)
-  - sim\_article
-    [![sim\_article](sim_article_demo.gif)](sim_article_demo.pdf)
-  - springer\_article
-    [![springer\_article](springer_article_demo.gif)](springer_article_demo.pdf)
-  - tf\_article
-    [![tf\_article](tf_article_demo.gif)](tf_article_demo.pdf)
+-   acm [![acm](acm_demo.gif)](acm_demo.pdf)
+-   acs [![acs](acs_demo.gif)](acs_demo.pdf)
+-   aea [![aea](aea_demo.gif)](aea_demo.pdf)
+-   agu [![agu](agu_demo.gif)](agu_demo.pdf)
+-   ams [![ams](ams_demo.gif)](ams_demo.pdf)
+-   arxiv [![arxiv](arxiv_demo.gif)](arxiv_demo.pdf)
+-   asa [![asa](asa_demo.gif)](asa_demo.pdf)
+-   bioinformatics
+    [![bioinformatics](bioinformatics_demo.gif)](bioinformatics_demo.pdf)
+-   biometrics [![biometrics](biometrics_demo.gif)](biometrics_demo.pdf)
+-   copernicus [![copernicus](copernicus_demo.gif)](copernicus_demo.pdf)
+-   elsevier [![elsevier](elsevier_demo.gif)](elsevier_demo.pdf)
+-   frontiers [![frontiers](frontiers_demo.gif)](frontiers_demo.pdf)
+-   ieee [![ieee](ieee_demo.gif)](ieee_demo.pdf)
+-   mdpi [![mdpi](mdpi_demo.gif)](mdpi_demo.pdf)
+-   mnras [![mnras](mnras_demo.gif)](mnras_demo.pdf)
+-   mdpi [![mdpi](mdpi_demo.gif)](mdpi_demo.pdf)
+-   mnras [![mnras](mnras_demo.gif)](mnras_demo.pdf)
+-   oup [![oup](oup_demo.gif)](oup_demo.pdf)
+-   peerj [![peerj](peerj_demo.gif)](peerj_demo.pdf)
+-   plos [![plos](plos_demo.gif)](plos_demo.pdf)
+-   pnas [![pnas](pnas_demo.gif)](pnas_demo.pdf)
+-   rsos [![rsos](rsos_demo.gif)](rsos_demo.pdf)
+-   rss [![rss](rss_demo.gif)](rss_demo.pdf)
+-   sage [![sage](sage_demo.gif)](sage_demo.pdf)
+-   sim [![sim](sim_demo.gif)](sim_demo.pdf)
+-   springer [![springer](springer_demo.gif)](springer_demo.pdf)
+-   tf [![tf](tf_demo.gif)](tf_demo.pdf)
