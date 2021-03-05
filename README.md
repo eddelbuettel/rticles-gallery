@@ -4,12 +4,16 @@
 
 I can never remember what the different templates from the
 [rticles](https://github.com/rstudio/rticles) package (for RMarkdown-driven pdf-based papers) look
-like.  So I made [a gallery](https://eddelbuettel.github.io/rticles-gallery/) to preview them. 
+like.  So I made [a gallery](https://eddelbuettel.github.io/rticles-gallery/) to preview them. Click
+on the link in previous sentence or, equivalently, go directly to
+https://eddelbuettel.github.io/rticles-gallery/
 
 It contains (animated) gif files showing all pages of each template---and providing a link to the
 underlying pdf from which the gif was derived.
 
-There is also [one single gif](docs/all.gif) but it is bound to make your head spin.
+There is also [one single gif](docs/all.gif) but it is bound to make your head spin:
+
+![](docs/all.gif)
 
 ### How?
 
