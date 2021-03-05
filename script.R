@@ -1,3 +1,4 @@
+#!/usr/bin/r
 
 styles <- list.files(path=system.file("rmarkdown", "templates", package="rticles"), recursive=FALSE)
 
@@ -43,11 +44,13 @@ for (s in styles) {
     }
 }
 
-if (nchar(Sys.which("convert") == 0)) {
+
+if (nchar(unname(Sys.which("convert"))) == 0) {
     stop("Need 'convert' to create gif files.", call.=FALSE)
 }
 
 if (dir.exists("docs")) {
+    cwd <- getwd()
     setwd("docs")
     pdfs <- list.files(".", pattern=".pdf$")
     for (p in pdfs) {
